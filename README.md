@@ -21,7 +21,6 @@ One can find the cleaned versions of datasets (large and small) in the "cleaned_
  
  # Dependencies
  
- - Python 3  
  - Pandas
  - Numpy
  - NLTK
